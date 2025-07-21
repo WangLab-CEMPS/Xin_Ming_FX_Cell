@@ -4,5 +4,6 @@ This repository contains the code for the downstream analysis of FX-Cell data.
 
 ## Document Structure
 
-`fig_scripts`: The code used to generate the majority of the main and supplementary figures.
-`src`: Specific analysis code for each of the species studied.
+- `fig_scripts`: The code used to generate the majority of the main and supplementary figures.
+
+- `src`: Specific analysis code for each of the species studied.
